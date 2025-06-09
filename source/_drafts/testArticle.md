@@ -1,5 +1,12 @@
 ---
-title: {{ title }}
-date: {{ date }}
-tags:
+abbrlink: ''
+categories: []
+date: '2025-06-09T21:54:59.344050+08:00'
+tags: []
+title: 测试发布文章
+updated: '2025-06-09T21:55:05.504+08:00'
 ---
+水电费
+
+
+是的发生的
