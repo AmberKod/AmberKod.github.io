@@ -98,6 +98,10 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
+runtimeshow:
+  enable: true
+  publish_date: 1/4/2023 00:00:00
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
